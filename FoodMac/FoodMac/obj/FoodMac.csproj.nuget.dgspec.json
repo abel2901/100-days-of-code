@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abel2\\source\\repos\\FoodMac\\FoodMac\\FoodMac.csproj": {}
+    "C:\\Users\\abel2\\Documents\\100daysofcode\\FoodMac\\FoodMac\\FoodMac.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abel2\\source\\repos\\FoodMac\\FoodMac\\FoodMac.csproj": {
+    "C:\\Users\\abel2\\Documents\\100daysofcode\\FoodMac\\FoodMac\\FoodMac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abel2\\source\\repos\\FoodMac\\FoodMac\\FoodMac.csproj",
+        "projectUniqueName": "C:\\Users\\abel2\\Documents\\100daysofcode\\FoodMac\\FoodMac\\FoodMac.csproj",
         "projectName": "FoodMac",
-        "projectPath": "C:\\Users\\abel2\\source\\repos\\FoodMac\\FoodMac\\FoodMac.csproj",
+        "projectPath": "C:\\Users\\abel2\\Documents\\100daysofcode\\FoodMac\\FoodMac\\FoodMac.csproj",
         "packagesPath": "C:\\Users\\abel2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abel2\\source\\repos\\FoodMac\\FoodMac\\obj\\",
+        "outputPath": "C:\\Users\\abel2\\Documents\\100daysofcode\\FoodMac\\FoodMac\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abel2\\AppData\\Roaming\\NuGet\\NuGet.Config",
