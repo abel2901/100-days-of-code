@@ -9,7 +9,7 @@
 
 ### Dia 1: 05 de janeiro, 2023
 #####
-**Progresso do dia:** Iniciei o projeto de site, o FoodMac. O principal objetivo é utilizar o padrão MVC (Model-View-Controller). Além disso, criei uma partial view para usar um carousel do Bootstrap.
+**Progresso do dia:** Iniciei o projeto de site, o [FoodMac](https://github.com/kallaway/100-days-of-code/commit/67ef85e56b12b611ba5acd739e06fd7720b1808b). O principal objetivo é utilizar o padrão MVC (Model-View-Controller). Além disso, criei uma partial view para usar um carousel do Bootstrap.
 
 **Aprendizados:** O ASP.NET Core MVC - agregou diversos recursos para ajudar os desenvolvedores durante a implementação como view engine, model binding, tag-helpers, routing, scaffolding e configuração sobre a convenção para manter as boas práticas.
 View Engine: responsável por renderizar a view.
