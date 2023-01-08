@@ -14,7 +14,7 @@ namespace FoodMac.Models
         [StringLength(80, MinimumLength = 10, ErrorMessage = "O {0} deve ter no minimo {1} e no máximo {2}")]
         public string Name { get; set; }
         [Required(ErrorMessage = "O nome deve ser informado")]
-        [Display(Name = "Nome do lanche")]
+        [Display(Name = "Descrição")]
         [MinLength(20, ErrorMessage = "Descrição deve ter no mínimo {1} caracteres")]
         [MaxLength(200, ErrorMessage = "Descrição pode exceder {1} caracteres")]
         public string ShortDescription { get; set; }
