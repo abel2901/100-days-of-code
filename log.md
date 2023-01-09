@@ -25,3 +25,10 @@ Configuração sobre a convenção: define uma convenção para obter um comport
 **Progresso do dia:** Criação das [classes models](https://github.com/kallaway/100-days-of-code/commit/7d7829d1ff58befba82b20da9d27f3a90983dd85) do projeto e [configuração do Entity Framework Core](https://github.com/kallaway/100-days-of-code/commit/b4529a6ecb2da4b267f50c78ccf207de61b1138b)
 
 **Aprendizados:** Utilização do Entity Framework, mapeamento das classes para as tabelas do banco de dados no code first. As propriedades definidas nas classes, no uso do entity, estabelecerão as colunas.
+
+### Dia 3: 08 de janeiro, 2023
+#####
+
+**Progresso do dia:** Criação das [data annotations](https://github.com/kallaway/100-days-of-code/commit/34d82545a3bb76735d49a104569efbb48c58172f) 
+
+**Aprendizados:** Utilização de data annotations como atributos que podem ser aplicados a classes e seus membros para definir regras de validação para o modelo e especificar o relacionamento entre as entidades do modelo. 
